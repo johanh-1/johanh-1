@@ -1,5 +1,5 @@
 # 💫 About Me:
-Excel - VBA<br>+4 Años de experiencia<br>+Fórmulas, tablas dinámicas, formato condicional, solver y fórmulas matriciales.<br>+Power Query y Power Pivot.<br>+Subrutinas, funciones, arreglos, recorridos y formularios en VBA.<br><br>Graduate<br>+Ingeniero Electrónico (2022)<br><br>🔭 I’m currently working on<br>+Excel<br>+UiPath<br><br>🌱 I’m currently learning<br>+Power BI<br>+Power Automate<br><br>💬 Ask me about<br>Amante de los videojuegos y del sushi<br><br>⚡ Fun fact<br>
+:computer: Excel - VBA<br>+4 Años de experiencia<br>+Fórmulas, tablas dinámicas, formato condicional, solver y fórmulas matriciales.<br>+Power Query y Power Pivot.<br>+Subrutinas, funciones, arreglos, recorridos y formularios en VBA.<br><br>Graduate<br>+Ingeniero Electrónico (2022)<br><br>🔭 I’m currently working on<br>+Excel<br>+UiPath<br><br>🌱 I’m currently learning<br>+Power BI<br>+Power Automate<br><br>💬 Ask me about<br>Amante de los videojuegos y del sushi<br><br>⚡ Fun fact<br>
 
 
 ## 🌐 Socials:
