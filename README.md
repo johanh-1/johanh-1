@@ -1,5 +1,5 @@
 # 💫 About Me:
-:computer: Excel - VBA :computer:<br>+4 Años de experiencia<br>+Fórmulas, tablas dinámicas, formato condicional, solver y fórmulas matriciales.<br>+Power Query y Power Pivot.<br>+Subrutinas, funciones, arreglos, recorridos y formularios en VBA.<br><br>🎓 Estudios<br>+Ingeniero Electrónico (2022)<br><br>🔭 Actualmente estoy trabajando en<br>+Excel<br>+UiPath<br><br>🌱 Actualmente estoy aprendiendo sobre<br>+Power BI<br>+Power Automate<br><br>💬 Intereses<br>Amante de los videojuegos y del sushi<br><br>
+:computer: Excel - VBA :computer:<br>+4 Años de experiencia dando clases privadas y realizando proyectos.<br>+Fórmulas, tablas dinámicas, formato condicional, solver y fórmulas matriciales.<br>+Power Query y Power Pivot.<br>+Subrutinas, funciones, arreglos, recorridos y formularios en VBA.<br><br>🎓 Estudios<br>+Ingeniero Electrónico (2022)<br><br>🔭 Actualmente estoy trabajando en<br>+Excel<br>+UiPath<br><br>🌱 Actualmente estoy aprendiendo sobre<br>+Power BI<br>+Power Automate<br><br>💬 Intereses<br>Amante de los videojuegos y del sushi<br><br>
 
 
 ## 🌐 Socials:
