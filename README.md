@@ -1,6 +1,6 @@
 ¡Hola! Soy Johan y con mi experiencia como ingeniero electrónico, mi pasión por Excel, VBA y Access, y mi compromiso de ayudar a las personas y pequeños negocios a optimizar sus procesos, estoy preparado para ofrecer consultoría especializada en automatización y facilitación de tareas en Excel. Mi objetivo es ayudarte a alcanzar tus objetivos empresariales de manera eficiente y efectiva.
 
-Si quieres ver algunos de mis proyectos da clic en alguno de los siguientes nombres:
+Si quieres ver en detalle alguno de mis proyectos da clic en alguno de los siguientes nombres:
 1. [Hotel](https://github.com/johanh-1/Hotel)
 2. [Centro de Eventos](https://github.com/johanh-1/Centro_de_Eventos)
 3. [Emprendimiento de Veldas](https://github.com/johanh-1/Emprendimiento_Velas)
