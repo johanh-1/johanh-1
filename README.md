@@ -1,10 +1,10 @@
 ¡Hola! Soy Johan y con mi experiencia como ingeniero electrónico, mi pasión por Excel, VBA y Access, y mi compromiso de ayudar a las personas y pequeños negocios a optimizar sus procesos, estoy preparado para ofrecer consultoría especializada en automatización y facilitación de tareas en Excel. Mi objetivo es ayudarte a alcanzar tus objetivos empresariales de manera eficiente y efectiva.
 
 Si quieres ver algunos de mis proyectos da clic en alguno de los siguientes nombres:
-[Hotel](https://github.com/johanh-1/Hotel)
-[Centro de Eventos](https://github.com/johanh-1/Centro_de_Eventos)
-[Emprendimiento de Veldas](https://github.com/johanh-1/Emprendimiento_Velas)
-[Emprendimiento de Ropa](https://github.com/johanh-1/Emprendimiento_Ropa)
+1. [Hotel](https://github.com/johanh-1/Hotel)
+2. [Centro de Eventos](https://github.com/johanh-1/Centro_de_Eventos)
+3. [Emprendimiento de Veldas](https://github.com/johanh-1/Emprendimiento_Velas)
+4. [Emprendimiento de Ropa](https://github.com/johanh-1/Emprendimiento_Ropa)
 
 # 💫 About Me:
 :computer: Excel - VBA :computer:<br>+4 Años de experiencia dando clases privadas y realizando proyectos.<br>+Fórmulas, tablas dinámicas, formato condicional, validación de datos, solver y fórmulas matriciales.<br>+Power Query y Power Pivot.<br>+Subrutinas, funciones, arreglos, recorridos y formularios en VBA.<br><br>🎓 Estudios 🎓<br>+Ingeniero Electrónico (2022)<br><br>🔭 Actualmente estoy trabajando en 🔭<br>+Excel<br>+UiPath<br><br>🌱 Actualmente estoy aprendiendo sobre 🌱<br>+Power BI<br>+Power Automate<br><br>💬 Intereses 💬<br>Amante de los videojuegos y del sushi<br><br>
